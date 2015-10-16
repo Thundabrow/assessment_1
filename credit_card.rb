@@ -21,3 +21,4 @@ end
 # puts "New balance:  #{card.balance}"
 # card.payment(50.00)
 # puts "Balance after payment: #{card.balance}"
+# test
